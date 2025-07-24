@@ -12,7 +12,7 @@ To categorize every financial transaction accurately (e.g., income, expenses, as
 🛠️ Tools Used:  
 QuickBooks Online > Settings > Chart of Accounts  
  - "New Account" form filled with Internet Expense example.  
-<img width="950" height="639" alt="image" src="https://github.com/user-attachments/assets/db8fe49a-6831-41f2-ad8e-42581b300fea" />
+<img width="950" height="639" alt="image" src="https://github.com/user-attachments/assets/db8fe49a-6831-41f2-ad8e-42581b300fea" />  
  -  Chart of Accounts list.  
 <img width="953" height="464" alt="image" src="https://github.com/user-attachments/assets/5a87f7b1-b1ec-407b-aa72-6db4e45cf59b" />
 
